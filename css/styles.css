@@ -1,4 +1,5 @@
 body{
+    font-family: 'Helvetica Neue Regular', Arial;
     margin: 0;
     padding: 0;
     background-image: url(../img/bg1.gif);
@@ -97,4 +98,8 @@ section{
 
 article *{
   margin-bottom: 20px;
+}
+
+h1{
+  font-weight: bold;
 }
