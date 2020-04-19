@@ -1,5 +1,7 @@
+
+
 body{
-    font-family: 'Helvetica Neue Regular', Arial;
+    font-family: Helvetica, Arial;
     margin: 0;
     padding: 0;
     background-image: url(../img/bg1.gif);
@@ -82,13 +84,10 @@ nav ul li:last-child:hover{
     box-shadow: none;
 }
 
-nav ul li:last-child a{
-  background-color: red;
-}
 
-/* SINCE HERE COME THE SECTION PART */
-/* SINCE HERE COME THE SECTION PART */
-/* SINCE HERE COME THE SECTION PART */
+/* SINCE HERE COMES THE SECTION PART */
+/* SINCE HERE COMES THE SECTION PART */
+/* SINCE HERE COMES THE SECTION PART */
 
 section{
   background-color: #fff;
@@ -100,6 +99,6 @@ article *{
   margin-bottom: 20px;
 }
 
-h1{
+h1 , h5{
   font-weight: bold;
 }
