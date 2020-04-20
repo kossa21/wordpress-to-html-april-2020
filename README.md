@@ -1,21 +1,8 @@
-Services
+Gallery
+Here you can view pictures of work we have recently completed.
 
-We offer a range of building services, including the following.
+Projects
 
-General Building
-Extensions
-Conservatories
-Wood Burner Installation
-Renovations and Refurbs
-Electrical
-Bricklaying
-If your requirements are not listed, please contact us.
+Before And After
 
-
-Carpintery
-Construction Services
-Electrical
-kitchens
-Maintenance
-Plumbing
-Refurbisment
+To discuss your project, contact us today.
