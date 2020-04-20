@@ -77,9 +77,6 @@ nav ul li:hover a{
 
 /* DROPRIGHT */
 
-nav ul li:last-child{
-  padding-left: 25px;
-}
 
 .search{
     border: none ;
@@ -93,10 +90,6 @@ input.search::placeholder {
   overflow: visible;
 }
 
-nav ul li:last-child:hover{
-    background-color: #000;
-    box-shadow: none;
-}
 
 .dropdown-item{
   border-bottom:1px solid #373737 .5;
