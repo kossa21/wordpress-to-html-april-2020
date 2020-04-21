@@ -133,3 +133,8 @@ h1 , h5, .item-bold{
   align-items: center;
   height: 120px;
 }
+
+img.img-fluid.image.scale-on-hover {
+  height: 130px;
+  object-fit: cover;
+}
