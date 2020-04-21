@@ -138,3 +138,10 @@ img.img-fluid.image.scale-on-hover {
   height: 130px;
   object-fit: cover;
 }
+
+.container-image{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
