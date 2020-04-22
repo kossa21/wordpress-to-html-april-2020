@@ -150,5 +150,28 @@ q{
   font-family: georgia;
   color: #999;
   font-style: italic;
+  display: block;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  font-size: 15px;
+}
+
+.form-flex{
+  display: flex;
+  flex-direction: column;
   
+  align-items: left;
+}
+input[type="button"]{
+  width: 70px;
+}
+
+input[type="text"], input[type="email"]{
+  width: 350px;
+  background-color: #f9f9f9;
+}
+textarea{
+  width: 500px;
+  height: 400px;
+  background-color: #f9f9f9;
 }
