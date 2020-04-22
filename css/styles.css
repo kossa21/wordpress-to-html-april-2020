@@ -145,3 +145,10 @@ img.img-fluid.image.scale-on-hover {
   justify-content: space-around;
   align-items: center;
 }
+
+q{
+  font-family: georgia;
+  color: #999;
+  font-style: italic;
+  
+}
