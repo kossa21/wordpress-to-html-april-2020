@@ -162,7 +162,7 @@ q{
   
   align-items: left;
 }
-input[type="button"]{
+input[type="submit"]{
   width: 70px;
 }
 
